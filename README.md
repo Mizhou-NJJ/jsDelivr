@@ -1,2 +1,2 @@
 # jsDelivr
-CDN
+Mizhou的CDN
